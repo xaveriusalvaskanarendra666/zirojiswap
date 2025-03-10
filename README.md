@@ -55,8 +55,8 @@ Program ini cocok untuk digunakan dalam lingkungan pengujian (testnet) dan dapat
    - Buat file `priv.txt` di folder yang sama dengan script.
    - Tulis private key Ethereum Anda, satu per baris. Contoh:
      ```
-     4f3edf983ac636a65a842ce7c78d9aa706d3b113bce9c46f30d7d21715b23b1d
-     5f3edf983ac636a65a842ce7c78d9aa706d3b113bce9c46f30d7d21715b23b1e
+     0x....
+     0x....
      ```
 
 3. **Jalankan Script**:
