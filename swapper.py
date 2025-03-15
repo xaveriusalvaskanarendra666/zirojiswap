@@ -36,7 +36,7 @@ def print_sky_header():
 class TokenSwapper:
     def __init__(self):
         # Inisialisasi koneksi ke RPC 0G-Newton-Testnet
-        self.w3 = Web3(Web3.HTTPProvider('https://og-testnet-evm.itrocket.net'))
+        self.w3 = Web3(Web3.HTTPProvider('https://evmrpc-testnet.0g.ai'))
         
         # Verifikasi koneksi ke jaringan yang benar
         if self.w3.eth.chain_id != 16600:
